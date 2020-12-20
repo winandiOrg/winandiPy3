@@ -1,1 +1,1 @@
-print('tes ketes')
+print('tes ketes tes')

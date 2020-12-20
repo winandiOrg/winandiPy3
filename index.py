@@ -1,1 +1,1 @@
-print('tes ketes tes utamakan selamatkan')
+print('tes ketes tes utamakan selamat homina homina')
